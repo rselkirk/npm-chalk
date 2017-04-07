@@ -1,0 +1,22 @@
+{
+  "name": "npm-chalk",
+  "version": "1.0.0",
+  "description": "npm-chalk practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rselkirk/npm-chalk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rselkirk/npm-chalk/issues"
+  },
+  "homepage": "https://github.com/rselkirk/npm-chalk#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
